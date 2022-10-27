@@ -1,0 +1,15 @@
+C:\Users\root\source\repos\manga\x64\Debug\testetstsss.vcxproj.AssemblyReference.cache
+C:\Users\root\source\repos\manga\x64\Debug\testetstsss.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\root\source\repos\manga\x64\Debug\testetstsss.Form1.resources
+C:\Users\root\source\repos\manga\x64\Debug\testetstsss.vcxproj.GenerateResource.cache
+C:\Users\root\source\repos\manga\x64\Debug\ProjectTest.exe
+D:\3 курс\долги\Бройко\Course_Broyko_final\x64\Debug\testetstsss.vcxproj.AssemblyReference.cache
+D:\3 курс\долги\Бройко\Course_Broyko_final\x64\Debug\testetstsss.vcxproj.SuggestedBindingRedirects.cache
+D:\3 курс\долги\Бройко\Course_Broyko_final\x64\Debug\testetstsss.Form1.resources
+D:\3 курс\долги\Бройко\Course_Broyko_final\x64\Debug\testetstsss.vcxproj.GenerateResource.cache
+D:\3 курс\долги\Бройко\Course_Broyko_final\x64\Debug\ProjectTest.exe
+D:\3 курс\долги\Сапогов\Course_Broyko_final\x64\Debug\testetstsss.vcxproj.AssemblyReference.cache
+D:\3 курс\долги\Сапогов\Course_Broyko_final\x64\Debug\testetstsss.vcxproj.SuggestedBindingRedirects.cache
+D:\3 курс\долги\Сапогов\Course_Broyko_final\x64\Debug\testetstsss.Form1.resources
+D:\3 курс\долги\Сапогов\Course_Broyko_final\x64\Debug\testetstsss.vcxproj.GenerateResource.cache
+D:\3 курс\долги\Сапогов\Course_Broyko_final\x64\Debug\Proj.exe

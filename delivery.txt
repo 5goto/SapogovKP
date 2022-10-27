@@ -1,0 +1,10 @@
+TestTitle1 TestName1 70
+TestTitle2 TestName2 46
+TestTitle3 TestName1 71
+TestTitle4 TestName2 100
+TestTitle5 TestName3 55
+TestTitle6 TestName1 70
+TestTitle7 TestName2 49
+TestTitle8 TestName1 73
+TestTitle9 TestName2 105
+TestTitle10 TestName3 58
